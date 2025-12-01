@@ -1,5 +1,6 @@
 # Co-op Canvas
-### Link: https://victiniiiii.vercel.app/
+## Link:
+Warning - The projects database might be offline because of supabase free tier - https://victiniiiii.vercel.app/
 ## What is this project?
 This is a real-time collaborative drawing board, supporting multiple users to draw on the same boards at the same time.  
 It has near infinite boards, and they are always saved to the database.  
